@@ -19,7 +19,7 @@
     "prettier": "^3.9.9",
     "simple-git-hooks": "^2.14.0",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.8",
+    "vitest": "^5.0.2",
     "wrangler": "^4.140.0"
   },
   "name": "xget",
